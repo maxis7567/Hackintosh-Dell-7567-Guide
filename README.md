@@ -93,9 +93,6 @@ Clover Post-Install Files:
    - Disable Legacy Option ROMs
    - Change SATA operation to AHCI (If already using windows, google how to)
    - Disable Secure Boot
-   - VT for Direct I/O (VT-d) is disabled
- - USB with >= 16GB, preferably USB 2.0 (3.0 is known to cause problems)
- - common_sense.exe
 
 ## Creating macOS USB
 
