@@ -72,10 +72,8 @@ Clover Post-Install Files:
 
 ### Known Bugs
  - Stock wifi doesn't work (needs to be replaced with a compatible one)
- - SDCard reader (probably fixed by some kext)
  - 2.1 audio (2.0 works)
  - Audio via headphones after sleep (This actually worked on previous releases, so may be need to downgrade AppleALC to tested version like 1.2.8)
- - Built-in mic for headphones may not work
 
 ### Specs
  - Intel i7-7700HQ CPU
