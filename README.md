@@ -235,7 +235,7 @@ defaults write -g CGFontRenderingFontSmoothingDisabled -bool YES
 ## Credits
  - [Rehabman](https://www.tonymacx86.com/members/rehabman.429483/)
  - [AGuyWhoIsBored](https://www.tonymacx86.com/members/aguywhoisbored.1105835/)
- - [Nihhaar](https://www.github.com/Nihhaar/)and [Me](https://www.github.com/maxis7567/) *(For putting this together & adding many required patches(see commits))*
+ - [Nihhaar](https://www.github.com/Nihhaar/) and [Me](https://www.github.com/maxis7567/) *(For putting this together & adding many required patches(see commits))*
 
 ## References
  - https://www.tonymacx86.com/threads/guide-dell-inspiron-15-7567-and-similar-near-full-functionality.234988/
