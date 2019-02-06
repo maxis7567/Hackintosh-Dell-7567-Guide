@@ -1,7 +1,7 @@
 # Personal Hackintosh Guide/Instructions for Dell 7567
 
 ### Screenshot
-![macOS Mojave - 10.14.1](https://raw.githubusercontent.com/Nihhaar/Hackintosh-Dell-7567/master/Assets/Screenshot.png)
+![macOS Mojave - 10.14.1](https://github.com/maxis7567/Hackintosh-Dell-7567-Guide/blob/master/Assets/Screenshot.png)
 
 ### Download Required Files
 Check [releases](https://github.com/Nihhaar/Hackintosh-Dell7567/releases)
