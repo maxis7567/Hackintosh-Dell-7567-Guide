@@ -203,11 +203,6 @@ sudo pmset -a powernap 0
  - Apple nuked subpixel antialiasing in mojave, making non-retina screens blurry
  - This effect is noticable in 1080p but doesnt affect 4k or retina displays
  - The following makes things somewhat better:
-
-**4) Microphone not working on headphone connected**
- - Install VoodooHDA 2.9.0 on tools folder and reboot
- - Install VoodooHDA 2.8.8 on tools folder and reboot
- - This make laptops microphone working but sound output wont change automatically on plugin headphone you must change manually on status bar
 ```bash
 # Type these commands in terminal and re-login to see the changes
 
@@ -221,6 +216,11 @@ defaults -currentHost write -globalDomain AppleFontSmoothing -int 2
 defaults -currentHost delete -globalDomain AppleFontSmoothing
 defaults write -g CGFontRenderingFontSmoothingDisabled -bool YES
 ```
+**4) Microphone not working on headphone connected**
+ - Install VoodooHDA 2.9.0 on tools folder and reboot
+ - Install VoodooHDA 2.8.8 on tools folder and reboot
+ - This make laptops microphone working but sound output wont change automatically on plugin headphone you must change manually on status bar
+
 
 **4) Scrolling is choppy with third party mice**
  - Use this tool: https://mos.caldis.me/, works well
