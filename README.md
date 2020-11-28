@@ -1,10 +1,10 @@
 # Personal Hackintosh Guide/Instructions for Dell 7567
-
+### [MacOs Big Sur Guide/Instructions for Dell 7567](https://github.com/maxis7567/Hackintosh-Dell-7567-OpenCore_Big-Sur)
 ### Screenshot
 ![macOS Mojave - 10.14.1](https://github.com/maxis7567/Hackintosh-Dell-7567-Guide/blob/master/Assets/Screenshot.png)
 
 ### Download Required Files
-Check [releases](https://github.com/Nihhaar/Hackintosh-Dell7567/releases)
+Check [releases](https://github.com/maxis7567/Hackintosh-Dell-7567-Guide/releases/tag/2.2.0)
 ```
 Clover USB Files:
  - drivers64UEFI: HFSPlus.efi (for HFS+ fs), apfs.efi (for apfs fs)
